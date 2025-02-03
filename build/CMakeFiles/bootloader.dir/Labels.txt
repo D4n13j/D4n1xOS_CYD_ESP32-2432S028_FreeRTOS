@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/CMakeFiles/bootloader
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/CMakeFiles/bootloader.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/CMakeFiles/bootloader-complete.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/D4n13j/esp/v5.4/esp-idf",
+    "idf.toolsPath": "/home/D4n13j/.espressif",
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0"
+}
