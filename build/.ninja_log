@@ -1180,3 +1180,11 @@
 5662	5804	1738612307565558869	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/.bin_timestamp	b62b11a84cdff447
 5804	5842	1738612307566558870	esp-idf/esptool_py/CMakeFiles/app_check_size	34df14f644eef40d
 5804	5842	1738612307566558870	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/esp-idf/esptool_py/CMakeFiles/app_check_size	34df14f644eef40d
+67	144	1739375824079462288	bootloader-prefix/src/bootloader-stamp/bootloader-build	c4bca1a32b5d24ab
+67	144	1739375824079462288	bootloader/bootloader.elf	c4bca1a32b5d24ab
+67	144	1739375824079462288	bootloader/bootloader.bin	c4bca1a32b5d24ab
+67	144	1739375824079462288	bootloader/bootloader.map	c4bca1a32b5d24ab
+67	144	1739375824079462288	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	c4bca1a32b5d24ab
+67	144	1739375824079462288	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader/bootloader.elf	c4bca1a32b5d24ab
+67	144	1739375824079462288	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader/bootloader.bin	c4bca1a32b5d24ab
+67	144	1739375824079462288	/home/D4n13j/Projects/VSCode/ESP-IDF/D4n1xOS_CYD_ESP32-2432S028_FreeRTOS/build/bootloader/bootloader.map	c4bca1a32b5d24ab
